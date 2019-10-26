@@ -9,7 +9,8 @@ In order to run the project, you must have installed Python, on your PC.
 Use for education purpose only! For the project demo, have a look at the YouTube Video Above.
 
 Features:
-Add Students
-List all students
-Search students
-Remove Students
+1. Add Students
+2. List all students
+3. Search students
+4. Remove Students
+
