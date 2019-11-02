@@ -6,7 +6,6 @@ Talking about the system, it contains basic functions which include Add students
 view students, search students and remove the student. 
 
 In order to run the project, you must have installed Python, on your PC. 
-Use for education purpose only! For the project demo, have a look at the YouTube Video Above.
 
 Features:
 1. Add Students
