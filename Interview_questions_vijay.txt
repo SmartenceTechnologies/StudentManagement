@@ -29,3 +29,14 @@ max_val(10,88,66)
 22.In flask how to implement login page and password
 23.How to maintain code?
 24.How to maintain and develop structure of a code?
+25.Below code How does it works?
+def myfunc():
+    yield 1
+    print("Test")
+    yield 2
+    print("Another Test")
+    
+
+g = myfunc()
+print(next(g))
+print(next(g))
