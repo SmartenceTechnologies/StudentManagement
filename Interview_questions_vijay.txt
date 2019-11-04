@@ -3,8 +3,8 @@
 3.Explain Inheritance
 4.How many types of Inheritances
 5.What is pickling and unpickling?
-6.What are the data type does python provides?which are mutable and which are immutable?
-7.what is iterator?
+6.What are the data type in python?which are mutable and which are immutable?
+7.what is iterator in python?
 8.What is generator? How it works and example?
 9.What is __init__?
 10.How "is" and  "==" are works?
