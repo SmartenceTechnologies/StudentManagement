@@ -1,20 +1,37 @@
 1.What is the difference between lists and tuples?
+
 2.How is memory managed in Python?
+
 3.Explain Inheritance
+
 4.How many types of Inheritances
+
 5.What is pickling and unpickling?
-6.What are the data type in python?which are mutable and which are immutable?
-7.what is iterator in python?
+
+6.What are the data type does python provides?which are mutable and which are immutable?
+
+7.what is iterator?
+
 8.What is generator? How it works and example?
+
 9.What is __init__?
+
 10.How "is" and  "==" are works?
+
 11.what type of data structures are you used?
+
 12.How does Method overloading is works and example?
+
 13.How does Method overriding is works and example?
+
 14.How does Method extract is works and example?
+
 15.What is the difference between deep and shallow copy
+
 16.multiple inheritance(How to call inside functions)
+
 17.How to develop and test by API?
+
 18.How to find maximum value
 
 def max_val(a,b,c):
@@ -24,11 +41,17 @@ def max_val(a,b,c):
 max_val(10,88,66) 
 
 19.What is decorator and how it will works?
+
 20.What is super method and how does it works?
+
 21.What is MRO?Is there any particular rule is there?
+
 22.In flask how to implement login page and password
+
 23.How to maintain code?
+
 24.How to maintain and develop structure of a code?
+
 25.Below code How does it works?
 def myfunc():
     yield 1
@@ -40,3 +63,49 @@ def myfunc():
 g = myfunc()
 print(next(g))
 print(next(g))
+
+26.Code for below example
+
+    *
+  * * *
+* * * * *
+
+27.What is deepcopy and shallow copy with example?
+
+28.Fibonacci Series code is required for below examples:
+
+i) 1,1,2,3,8,13...
+ii)1,1,2,3,5,8,13...
+
+29.what is pass by value and pass by reference in python
+
+30. what xrange and range will works in python
+
+31.How to remove duplicate values from list
+Exm:
+input : l = [1,2,3,4,5,5,1,2,3,4,5,8,7,9,6,5,4,7]
+output = l = [1, 2, 3, 4, 5, 8, 7, 9, 6]
+
+32. Explain Hierarchical inheritance with example
+
+33. Explain Multilevel inheritance with example
+
+34. Explain bug life cycle
+
+35. what is regression testing
+
+36. what is retesting testing 
+
+37. How to excess Private veriable and methods
+
+38. Can you explain about __new__
+
+39. Explain self 
+
+40. What is constructure
+
+41. what is encapsulation 
+
+42. what is polymorphisam
+
+43. 
