@@ -74,7 +74,7 @@ print(next(g))
 
 28.Fibonacci Series code is required for below examples:
 
-i) 1,1,2,3,8,13...
+i) 1,1,2,3,5,13...
 ii)1,1,2,3,5,8,13...
 
 29.what is pass by value and pass by reference in python
@@ -108,4 +108,25 @@ output = l = [1, 2, 3, 4, 5, 8, 7, 9, 6]
 
 42. what is polymorphisam
 
-43. 
+43. Can you explain extend method in python
+
+44. Can you explain about Positional argument,keyword argument
+
+45. Can you explain about derived class.
+
+46. Use lambda function to write odd or even numbers in the list
+
+47. Write a code in function for Fibonacci Series?
+		and
+    Write a code in generator function for Fibonacci Series?
+
+48. write code for palindrome.
+
+s = "TATA ELXSI"
+
+49. write a code for reverse the string?
+
+50. Write a code without using slice method?
+
+
+
