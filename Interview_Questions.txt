@@ -1,0 +1,38 @@
+1) 
+a =[] 
+b = a
+b.append([1,2,3])
+a.extend([1,2,3])
+print(a)
+print(b)
+
+2) 
+l = [1,1,2,5,4,3,8,4,3]
+
+we want only single time found values need to display on screen like below
+expected output is [2,8]
+
+3)How to found the given number is prime number or not
+
+4)Write a code for factorial without using loop methods
+
+5)a = (a,b,c,d,e,f)
+
+write code to create text file with value and and store the same value in that file
+example :
+a.txt
+a
+
+6) How to compare one dictionarie with another.
+
+7) With out using  sort method to sort the list
+input:
+s = [5,2,8,1,4,7]
+output:
+s = [1,2,4,5,7,8]
+ 
+ 
+8)How to generates random string 
+like example:
+GFauUYrP
+
