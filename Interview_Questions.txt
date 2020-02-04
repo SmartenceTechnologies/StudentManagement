@@ -16,9 +16,9 @@ expected output is [2,8]
 
 4)Write a code for factorial without using loop methods
 
-5)a = (a,b,c,d,e,f)
+5)tuple1 = (a,b,c,d,e,f)
 
-write code to create text file with value and and store the same value in that file
+write code to create text file with tuple values and store the same value in that file
 example :
 a.txt
 a
