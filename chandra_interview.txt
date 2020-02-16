@@ -1,0 +1,50 @@
+1) Find the number divisible by 7 and multiply 5 in range 1500 to 3200 write the program ?
+
+2) dict ={'red','white','block','pink','red','white','pink','block','white','red'}
+how many times are repeted in same word ?
+
+3) *
+   * *
+   * * *
+   * * * *
+   * * * * * write programm ?
+   * * * *
+   * * *
+   * *
+   *
+
+Capgemini
+
+1) string ="abcdef"
+   string.replace("b","x")
+   print(string)  write the output ?
+
+2) l1 =[1,2,3]
+   dict ={'a':10,'b':20}
+   l1.append(dict)
+   l1.extend(dict)
+   what is the output ?
+
+3)dict ={"chinna":200,"india":300,"chennai":250,"america":150}
+  find the maximum value in dictonary ?
+
+4) l1 =[1,2,3]
+   l2 =[4,5,6]
+   output:[5,7,9] how to do?
+
+5) string ="malayalam"
+   how to replace 2nd 'a' character in string ? excepted output is "malbyalam" ?
+
+6) what is dictonary ? how to pass the keys ?
+7) difference between list and tuple ?
+
+8)dict= {"a":1,"b":2}
+  output is {1:"a",2:"b"} how to do?
+
+
+
+
+
+
+
+
