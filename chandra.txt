@@ -1,0 +1,64 @@
+1) string ="abcd 123 12 ef" 
+   only return the numbers by using re module?
+
+2) string ="abcdef"
+   count the vowels in the string?
+
+3) string ="abcdef"
+   i what only 'ae' characters in a string by using re module?
+
+4) d ={"a":1, "b":2}
+   how to return the particuler key value from a dictionary ?
+
+5) already define the dictionary how to assign new key and value ?
+
+6)what is the difference between list and set?how to define set?
+
+7)l =[2, 3, 5, 7, 8, 9, 6]
+  l[2:5]
+  l[:-3]
+  l[4:] write the outputs?
+
+8) exception handling?open a file ,file doesn't exit in path which kind of error message we have to write on except block?
+9)deffernce between list and tuple?
+
+Robot Framework
+
+10) how to open web application?how to maximize the window?how to close the window?
+11) how many types of locators? what is the xpath?
+12) you can write the own keywords ?
+13) write the test cases in facebook application ?
+
+
+Harman
+
+1) what is authentication  ?
+
+2) what is abstraction ?
+
+3) how many types of rest api errors ?
+
+4) how to install robotic framework ? what type of keywords in robotic framework ?
+
+5) l =[1,4,6,8,2,10,14,20]
+how can get the second largest value in above list?
+
+6) string ="a@bcd_ef#"
+ how to reverse the string special characters can't change? my expected output is "f@edc_ba#" you can write program ?
+
+7) how to fetch the 10 digits of phone number ?
+
+8) how to clone the repository using git command?how to generator the key?
+
+9) how to create branch using git command?
+
+10) how to pull ,how to push using git command?
+
+11) how to push data with out  commit command?
+
+12) what is filter? 
+
+
+
+
+
